@@ -1,6 +1,4 @@
-## Welcome to GitHub Pageshello
-
-You can use the [editor on GitHub](https://github.com/Jeremiah555/Jeremiah555.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to my site
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
