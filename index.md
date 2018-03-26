@@ -1,3 +1,2 @@
-* Welcome to my site
-### Interests
-
+### Welcome to my site
+### Something to know
