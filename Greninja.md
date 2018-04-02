@@ -3,6 +3,6 @@ If you clicked this page than you might want to know about Geninja. Greninja is 
 
 <img src="Frokie.jpg" height="300" width="300"/>
 <img src="Frogadier.png" height="300" width="350"/>
-<img src="Greninja_100.jpg" height="400" width="500"/>
+<img src="Greninja_100.jpg" height="500" width="600"/>
 
 
